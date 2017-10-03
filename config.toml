@@ -1,4 +1,4 @@
-baseURL = "https://aca-cse-iitk.github.io/"
+baseURL = "https://aca-cse-iitk.github.io"
 title = "ACA"
 author = "Jaskirat Singh"
 paginate = 3
