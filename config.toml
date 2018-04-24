@@ -8,7 +8,6 @@ layoutdir = "layouts"
 publishdir = "docs"
 canonifyurls = true
 
-enableRobotsTXT = true # Suggested, enable robots.txt file
 
 [outputs]
     home = ["HTML", "CSS", "JSON", "RSS"]
@@ -27,6 +26,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     recent_articles = true
     categories = true
     tags = true
+    drafts = true
     tags_counter = false
 
 [menu]
@@ -38,6 +38,5 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
         name = "Projects"
         weight = 3
         url = "/projects"
-
 [Params.social]
     facebook = "aca.cse.iitk"

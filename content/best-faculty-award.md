@@ -1,7 +1,6 @@
 ---
 title: "Best Faculty Award"
 date: 2017-09-02T14:59:40+05:30
-draft: true
 menu: "main"
 weight: 4
 ---

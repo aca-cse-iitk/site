@@ -2,7 +2,6 @@
 title: "League of Programmers"
 menu: "main"
 date: 2017-09-02T15:21:50+05:30
-draft: true
 weight: 5
 ---
 #### Lecture Slides

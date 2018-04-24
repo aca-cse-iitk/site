@@ -146,69 +146,11 @@ table, th, td {
                             <h1 class="text-uppercase">Our Team</h1>
                         </div>
                         <table>
-                        	<th>
-                        		<td class="col-md-4 col-sm-4">
-		                            <div class="team-member">
-		                                <div class="team-img">
-		                                    <img src="/images/1.jpg" alt="team member" class="img-responsive">
-		                                </div>
-		                                <div class="team-hover">
-		                                    <div class="s-link">
-		                                        <a href="#"><i class="fa fa-facebook"></i></a>
-		                                        <a href="#"><i class="fa fa-twitter"></i></a>
-		                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <div class="team-title">
-		                                <h5 class="text-center">Jaskirat Singh</h5>
-                                        <p class="text-center">UG Coordinator</p>
-		                            </div>
-		                        </td>
-		                        <td class="col-md-4 col-sm-4">
-		                            <div class="team-member">
-		                                <div class="team-img">
-		                                    <img src="/images/2.jpg" alt="team member" class="img-responsive">
-		                                </div>
-		                                <div class="team-hover">
-		                                    <div class="s-link">
-		                                        <a href="#"><i class="fa fa-facebook"></i></a>
-		                                        <a href="#"><i class="fa fa-twitter"></i></a>
-		                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <div class="team-title">
-		                                <h5 class="text-center">Prakhar Agarwal</h5>
-                                        <p class="text-center">UG Coordinator</p>
-		                            </div>
-		                        </td>
-		                        <td class="col-md-4 col-sm-4">
-		                            <div class="team-member">
-		                                <div class="team-img">
-		                                    <img src="/images/3.jpg" class="img-responsive">
-		                                </div>
-		                                <div class="team-hover">
-		                                    <div class="s-link">
-		                                        <a href="#"><i class="fa fa-facebook"></i></a>
-		                                        <a href="#"><i class="fa fa-twitter"></i></a>
-		                                        <a href="#"><i class="fa fa-google-plus"></i></a>
-		                                    </div>
-		                                </div>
-		                            </div>
-		                            <div class="team-title">
-		                                <h5 class="text-center">Akshat Jindal</h5>
-		                                <p class="text-center">UG Coordinator</p>
-									</div>
-		                        </td>
-                        	</th>
-                        </table>
-                        <table>
                             <th>
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/manish.jpg" alt="team member" class="img-responsive">
+                                            <img src="/images/1.jpg" alt="team member" class="img-responsive">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -219,8 +161,8 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Manish Panwar</h5>
-                                        <p class="text-center">9953248783</p>
+                                        <h5 class="text-center">Jaskirat Singh</h5>
+                                        <p class="text-center">UG Coordinator</p>
                                     </div>
                                 </td>
                                 <td class="col-md-4 col-sm-4">
@@ -261,7 +203,65 @@ table, th, td {
                                 </td>
                             </th>
                         </table>
-                         <center>
+                        <table>
+                            <th>
+                                <td class="col-md-4 col-sm-4">
+                                    <div class="team-member">
+                                        <div class="team-img">
+                                            <img src="/images/1.jpg" alt="team member" class="img-responsive">
+                                        </div>
+                                        <div class="team-hover">
+                                            <div class="s-link">
+                                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="team-title">
+                                        <h5 class="text-center">Jaskirat Singh</h5>
+                                        <p class="text-center">UG Coordinator</p>
+                                    </div>
+                                </td>
+                                <td class="col-md-4 col-sm-4">
+                                    <div class="team-member">
+                                        <div class="team-img">
+                                            <img src="/images/bhaskar.jpg" alt="team member" class="img-responsive">
+                                        </div>
+                                        <div class="team-hover">
+                                            <div class="s-link">
+                                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="team-title">
+                                        <h5 class="text-center">Bhaskar</h5>
+                                        <p class="text-center">Phd. Coordinator</p>
+                                    </div>
+                                </td>
+                                <td class="col-md-4 col-sm-4">
+                                    <div class="team-member">
+                                        <div class="team-img">
+                                            <img src="/images/manish.jpg" class="img-responsive" width="1000" height="200">
+                                        </div>
+                                        <div class="team-hover">
+                                            <div class="s-link">
+                                                <a href="#"><i class="fa fa-facebook"></i></a>
+                                                <a href="#"><i class="fa fa-twitter"></i></a>
+                                                <a href="#"><i class="fa fa-google-plus"></i></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="team-title">
+                                        <h5 class="text-center">Manish Panwar</h5>
+                                        <p class="text-center">M-Tech Coordinator</p>
+                                    </div>
+                                </td>
+                            </th>
+                        </table>
+                        <center>
                             <table>
 		                        <td class="col-md-8 col-sm-8">
                                 </td>

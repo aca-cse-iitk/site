@@ -1,5 +1,6 @@
 +++
 title = "ACA"
+weight = 1
 +++
 
 Association for Computing Activities (ACA) is the Computer Science society of IIT Kanpur.

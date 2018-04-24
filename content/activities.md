@@ -1,10 +1,9 @@
----
-title: "Activities"
-date: 2017-09-02T14:49:29+05:30
-draft: true
-menu : "main"
-weight: 6
----
++++
+title =  "Activities"
+date = 2017-09-02T14:49:29+05:30
+menu = "main"
+weight = 2
++++
 #### Upcoming Events
 * Microsoft Code Fun Do 2018
 #### Past Events
