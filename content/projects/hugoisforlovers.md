@@ -2,6 +2,7 @@
 title: "Sample Project"
 date: 2016-12-23 16:42:00 +0530
 author: sample Author
+draft: true
 tags: 
  - summer16
  - project
