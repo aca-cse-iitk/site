@@ -19,7 +19,7 @@ enableRobotsTXT = true # Suggested, enable robots.txt file
     authorbox = true
     author = "ACA"
     post_navigation = true
-    alert = "NO RECENT NOTIFICATIONS"
+    alert = "SUMMER SCHOOL registration: link -------> https://summerschool.cse.iitk.ac.in/index.php"
     favicon = "/favicon.jpg"
 
 [Params.widgets]
