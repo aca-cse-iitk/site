@@ -150,7 +150,7 @@ table, th, td {
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/1.jpg" alt="team member" class="img-responsive">
+                                            <img src="/images/raman.jpg" alt="team member" class="img-responsive">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -161,14 +161,14 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Jaskirat Singh</h5>
+                                        <h5 class="text-center">Raghukul Raman</h5>
                                         <p class="text-center">UG Coordinator</p>
                                     </div>
                                 </td>
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/2.jpg" alt="team member" class="img-responsive">
+                                            <img src="/images/bandlish.jpg" alt="team member" class="img-responsive">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -179,14 +179,14 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Prakhar Agarwal</h5>
+                                        <h5 class="text-center">Lakshay Bandlish</h5>
                                         <p class="text-center">UG Coordinator</p>
                                     </div>
                                 </td>
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/3.jpg" class="img-responsive">
+                                            <img src="/images/pammi.jpg" class="img-responsive">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -197,7 +197,7 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Akshat Jindal</h5>
+                                        <h5 class="text-center">Paramansh Singh</h5>
                                         <p class="text-center">UG Coordinator</p>
                                     </div>
                                 </td>
@@ -208,7 +208,7 @@ table, th, td {
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/1.jpg" alt="team member" class="img-responsive">
+                                            <img src="/images/shiv.jpg" alt="team member" class="img-responsive">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -219,8 +219,8 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Jaskirat Singh</h5>
-                                        <p class="text-center">UG Coordinator</p>
+                                        <h5 class="text-center">Shiv Gupta</h5>
+                                        <p class="text-center">PG Coordinator</p>
                                     </div>
                                 </td>
                                 <td class="col-md-4 col-sm-4">
@@ -237,14 +237,14 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Bhaskar</h5>
+                                        <h5 class="text-center">Bhaskar Mukhoty</h5>
                                         <p class="text-center">Phd. Coordinator</p>
                                     </div>
                                 </td>
                                 <td class="col-md-4 col-sm-4">
                                     <div class="team-member">
                                         <div class="team-img">
-                                            <img src="/images/manish.jpg" class="img-responsive" width="1000" height="200">
+                                            <img src="/images/mahesh.jpg" class="img-responsive" width="1000" height="200">
                                         </div>
                                         <div class="team-hover">
                                             <div class="s-link">
@@ -255,8 +255,8 @@ table, th, td {
                                         </div>
                                     </div>
                                     <div class="team-title">
-                                        <h5 class="text-center">Manish Panwar</h5>
-                                        <p class="text-center">M-Tech Coordinator</p>
+                                        <h5 class="text-center">Mahesh Sreekumar Rajasree</h5>
+                                        <p class="text-center">Phd. Coordinator</p>
                                     </div>
                                 </td>
                             </th>
